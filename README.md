@@ -6,3 +6,6 @@
 Integer.MAX_VALUE;
 Double.MAX_VALUE;
 ```
+**NOTE**
+
+Use *JSHELL* to experiment with java
